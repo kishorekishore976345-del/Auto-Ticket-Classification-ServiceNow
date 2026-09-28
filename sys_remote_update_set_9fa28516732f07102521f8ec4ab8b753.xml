@@ -1157,7 +1157,7 @@
 <view/>
 </sys_update_xml>
 <sys_update_xml action="INSERT_OR_UPDATE">
-<action>INSERT_OR_UPDATE</action>
+<action>INSERT_OR_UPDATE</action
 <application display_value="Global">global</application>
 <category>customer</category>
 <comments/>
