@@ -143,7 +143,7 @@ Do not include instance passwords, access tokens, or other credentials in this r
 ## 👥 Team
 
 **Project:** Auto Ticket Classification using Flow Designer  
-**Team members:** Add the actual team member names here.
+Team size: 4 Members including Team Leader
 
 ## ✅ Conclusion
 
